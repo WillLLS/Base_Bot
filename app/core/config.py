@@ -1,0 +1,6 @@
+API_TOKEN = "6503401360:AAEw-FQrcSlioIgS2CcGpaHhHZ72Tqt4zRc"
+
+admin_id = 6534222555
+
+
+DEBUG = True
